@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-rollingdough-dev-112541-authRole",
+      "UnauthRoleArn": "arn:aws:iam::216407560218:role/amplify-rollingdough-dev-112541-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::216407560218:role/amplify-rollingdough-dev-112541-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-rollingdough-dev-112541-deployment",
+      "UnauthRoleName": "amplify-rollingdough-dev-112541-unauthRole",
+      "StackName": "amplify-rollingdough-dev-112541",
+      "StackId": "arn:aws:cloudformation:us-east-2:216407560218:stack/amplify-rollingdough-dev-112541/86be9fa0-c0c6-11ec-aee6-02bd4b002708",
+      "AmplifyAppId": "d1kbvufyngqt04"
+    }
+  }
+}
