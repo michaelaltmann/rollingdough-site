@@ -1,15 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
+import { BakeriesScreen } from './screens/index';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Cycling Tours of Bakeries in the Twin Cities
         </p>
-
+        <BakeriesScreen />
       </header>
     </div>
   );
