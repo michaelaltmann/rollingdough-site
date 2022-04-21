@@ -26,7 +26,7 @@ export const BakeriesScreen = () => {
               width: 325,
               margin: 5,
               position: "relative",
-              height: 550,
+              height: 450,
             }}
             key={key}
           >
